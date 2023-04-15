@@ -21,8 +21,8 @@ The first step was to load all the datasets using the relevant libraries. The fo
 5.	tn.movie_budgets.csv.gz
 Data understanding also involved ascertaining how many rows and columns each of the datasets had and the datatypes of each of the columns.
 ### Data Preparation
-This section dealt with all the missing values. 
-Some of the missing values were dropped and others were intelligently replaced.
-I also converted datatypes of columns to appropriate datatypes to facilitate feature engineering.
+1. This section dealt with all the missing values. 
+2. Some of the missing values were dropped and others were intelligently replaced.
+3. I also converted datatypes of columns to appropriate datatypes to facilitate feature engineering.
 ### Data Analysis and visualization
 
